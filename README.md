@@ -1,3 +1,3 @@
 # hexlet-my-first-workflow
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Actions Status](https://github.com/eugena12345/hexlet-my-first-workflow/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/eugena12345/hexlet-my-first-workflow/actions)
